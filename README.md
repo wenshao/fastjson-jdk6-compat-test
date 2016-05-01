@@ -1,0 +1,1 @@
+# fastjson-jdk6-compat-test
